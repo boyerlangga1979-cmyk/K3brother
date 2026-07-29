@@ -3,12 +3,12 @@
         "device_id": "64e973689ff99500",
         "key": "boim",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
         {
         "device_id": "64e973689ff99500",
         "key": "boim2000",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2076",
         "Allowoffline": true
         
     },
