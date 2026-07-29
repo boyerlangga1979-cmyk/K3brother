@@ -14,16 +14,9 @@
     },
         {
         "device_id": "df8f03ce2025cf1b",
-        "key": "",
+        "key": "false",
         "expirydate": "15-06-2030",
-        "Allowoffline": false
+        "Allowoffline": true
         }
             
-    },
-        {
-        "device_id": "df8f03ce2025cf1b",
-        "key": "hasan",
-        "expirydate": "15-06-2030",
-        "Allowoffline": false
-        }
 ]
